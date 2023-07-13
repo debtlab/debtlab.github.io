@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "Релиз дистрибутива: Fedora Linux 33"
-date: 2013-04-25   
+date: 2020-10-27   
 ---

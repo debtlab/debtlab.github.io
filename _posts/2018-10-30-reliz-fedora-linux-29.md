@@ -1,5 +1,5 @@
 ---
 layout: post
 title:  "Релиз дистрибутива: Fedora Linux 29"
-date: 2013-08-23   
+date: 2018-10-30   
 ---
