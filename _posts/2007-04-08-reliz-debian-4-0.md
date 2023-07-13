@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Релиз дистрибутива: Debian 4.0"
+title:  "Релиз дистрибутива: Debian 4.0 Etch"
 date:   2007-04-08
 ---
