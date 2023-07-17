@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Релиз дистрибутива: Red Hat Enterprise Linux 8.2 "Ootpa""
+title: "Релиз дистрибутива: Red Hat Enterprise Linux 8.2 \"Ootpa\""
 date: 2020-04-28   
 ---

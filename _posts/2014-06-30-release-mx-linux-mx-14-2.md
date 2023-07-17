@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Релиз дистрибутива: MX Linux MX-14.2 "Symbiosis""
+title: "Релиз дистрибутива: MX Linux MX-14.2 \"Symbiosis\""
 date: 2014-06-30   
 ---
